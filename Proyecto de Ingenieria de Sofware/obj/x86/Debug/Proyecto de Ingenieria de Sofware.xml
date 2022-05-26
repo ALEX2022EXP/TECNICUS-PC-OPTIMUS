@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProyectodeIngenieriadeSofware
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.CLIENTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PRODUCTOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PROVEEDORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.CLIENTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PRODUCTOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PROVEEDORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.CLIENTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PRODUCTOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet.PROVEEDORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.CLIENTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.PRODUCTOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.PROVEEDORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.UpdateAll(Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.BD_TECNICUS_PC_OPTIMUSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Proyecto_de_Ingenieria_de_Sofware.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Proyecto_de_Ingenieria_de_Sofware.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Proyecto_de_Ingenieria_de_Sofware.My.Resources.Resources.ALTAS">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Proyecto_de_Ingenieria_de_Sofware.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

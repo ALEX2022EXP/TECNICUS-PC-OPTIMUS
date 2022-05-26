@@ -1,0 +1,24 @@
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\Proyecto de Ingenieria de Sofware.exe
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\Proyecto de Ingenieria de Sofware.pdb
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\Proyecto de Ingenieria de Sofware.xml
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.ALTAS_DE_PRODUCTOS.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.Resources.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.vbproj.GenerateResource.Cache
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.exe
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.xml
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.pdb
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.ALTAS_PROVEEDORES.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.BAJA_DE_PRODUCTOS.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.BAJAS_PROVEEDORES.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.MODIFICAR_PRODUCTOS.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.MODIFICAR_PROVEEDOR.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.Form1.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\Proyecto de Ingenieria de Sofware.exe.config
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\BD TECNICUS PC OPTIMUS.accdb
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.ALTASCLIENTES.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.BAJACLIENTES.resources
+C:\Users\david\Desktop\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto_de_Ingenieria_de_Sofware.User.resources
+C:\Users\david\Desktop\PROYECTO DE TECNICUS PC OPTIMUS\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\bin\Debug\Proyecto de Ingenieria de Sofware.exe.config
+C:\Users\david\Desktop\PROYECTO DE TECNICUS PC OPTIMUS\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.exe
+C:\Users\david\Desktop\PROYECTO DE TECNICUS PC OPTIMUS\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.xml
+C:\Users\david\Desktop\PROYECTO DE TECNICUS PC OPTIMUS\PROYECTO DE INGENIERIA DE SOFWARE\Proyecto de Ingenieria de Sofware\Proyecto de Ingenieria de Sofware\obj\x86\Debug\Proyecto de Ingenieria de Sofware.pdb
